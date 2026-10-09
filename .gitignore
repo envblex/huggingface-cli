@@ -1,2 +1,5 @@
 bin/
+dist/
+release-assets/
+all-assets/
 *.test
